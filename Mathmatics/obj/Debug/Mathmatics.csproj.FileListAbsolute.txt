@@ -1,0 +1,8 @@
+C:\Users\joyan\repos\Mathmatics\Mathmatics\obj\Debug\Mathmatics.csproj.AssemblyReference.cache
+C:\Users\joyan\repos\Mathmatics\Mathmatics\obj\Debug\Mathmatics.csproj.SuggestedBindingRedirects.cache
+C:\Users\joyan\repos\Mathmatics\Mathmatics\obj\Debug\Mathmatics.csproj.CoreCompileInputs.cache
+C:\Users\joyan\repos\Mathmatics\Mathmatics\bin\Debug\Mathmatics.exe.config
+C:\Users\joyan\repos\Mathmatics\Mathmatics\bin\Debug\Mathmatics.exe
+C:\Users\joyan\repos\Mathmatics\Mathmatics\bin\Debug\Mathmatics.pdb
+C:\Users\joyan\repos\Mathmatics\Mathmatics\obj\Debug\Mathmatics.exe
+C:\Users\joyan\repos\Mathmatics\Mathmatics\obj\Debug\Mathmatics.pdb
