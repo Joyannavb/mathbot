@@ -20,7 +20,7 @@ namespace Mathmatics
         static void Main(string[] args)
         {
             Console.WriteLine("Welcome to mathbot! let's do some math!");
-            Console.WriteLine(" \r\n Give me a numer.");
+            Console.WriteLine(" \r\n Give me a number.");
             int num1 = int.Parse(Console.ReadLine());
             Console.WriteLine("Give me another number.");
             int num2 = int.Parse(Console.ReadLine());
